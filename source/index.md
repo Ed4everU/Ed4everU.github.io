@@ -17,4 +17,13 @@ Computational Physics/index
 
 ```
 
+```{toctree}
+:maxdepth: 3
+:caption: Computer
+
+Python/index
+Julia/index
+
+```
+
 
