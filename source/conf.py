@@ -19,7 +19,7 @@
 
 project = "Ed's Blog"
 copyright = '2021, Edward'
-author = 'Edward'
+author = 'Edward Kong (Mingran Kong ~ Chinese Name)'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
