@@ -6,7 +6,7 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
-BUILDDIR      = build
+BUILDDIR      = docs
 HTMLCOPYDIR = ./
 
 # Put it first so that "make" without argument is like "make help".
