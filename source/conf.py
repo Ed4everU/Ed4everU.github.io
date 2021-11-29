@@ -60,5 +60,5 @@ html_theme = 'sphinx_book_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_title = "Edward's Blog"
+html_title = "Edward's Yesterday Land"
 html_logo = "_static/logo.png"
