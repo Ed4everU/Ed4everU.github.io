@@ -26,4 +26,15 @@ Julia/index
 
 ```
 
+## Publication
 
+## Collection of Random Thought
+
+```{toctree}
+:maxdepth: 3
+:caption: HaveAnySense?!
+
+Words/index
+
+
+```
