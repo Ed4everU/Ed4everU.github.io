@@ -34,6 +34,14 @@ _____
 
 _____
 
+## News update
+
+```{tab} 5th, May, 2022
+Web begin!
+```
+
+_____
+
 ## Work together !!!
 
 ```{important} If there is a willing to collaborate with me expecting to do some great workes together or even consider offering me a PhD position, please contact me with email: **kmr754156381@gmail.com**, and, if there's a need, I will send you a CV at that time. 
