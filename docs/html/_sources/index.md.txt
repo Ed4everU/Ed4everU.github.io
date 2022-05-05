@@ -17,7 +17,7 @@ I'm quite interested in high-performance scientific code development using **MPI
 ```
 
 ```{seealso}
-I have an intrinsic nature of being eager to get a all-round knowledge about this vast and mysterious universe and I even want to be part of some real adventures, which can really lead us to a brighter future.
+I have an intrinsic nature of being eager to get an all-round knowledge about this vast and mysterious universe and I even want to be part of some real adventures, which can really lead us to a brighter future.
 
 I'm a advocator of 
 ```
