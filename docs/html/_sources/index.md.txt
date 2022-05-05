@@ -36,10 +36,12 @@ _____
 
 ## News update
 
-```{tab} 5th, May, 2022
++ **May, 2022**
+```{tab} 5th
 1. Personal blog established!
 2. Congratulations to my girl friend JH Zhou for being selected to be the main actress in the graduation MV of Fudan University this year!!! Oh yeah!!!
 ```
+
 
 _____
 
