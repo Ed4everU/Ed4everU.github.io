@@ -16,7 +16,7 @@ _____
 
 - Demo of projects I have conducted.
   - Exciton-phonon coupling 
-- 
+- Skills communication
 - Personal blog
 - Publications
 - Codes share
