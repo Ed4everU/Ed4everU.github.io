@@ -39,6 +39,4 @@ Hello! I'm Mingran Kong, a PhD student at the University of Cambridge in the Dep
 - Email: [mk2197@cam.ac.uk](mk2197@cam.ac.uk)
 - GitHub: [Ed4everU](https://github.com/Ed4everU)
 
----
 
-*This website is powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages.*
