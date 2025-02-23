@@ -1,1 +1,0 @@
-build/searchindex.js
